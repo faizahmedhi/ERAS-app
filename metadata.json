@@ -1,0 +1,8 @@
+{
+  "name": "Remix ERAS - Education Resource Allocation System",
+  "description": "Comprehensive Education Resource Allocation System with Digital Library (e-books, notes), Skill Development (DSA, Web, AI/ML, Apps), SIH projector & book bookings, shortage analytics, feedback reporting, assignments, and faculty support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
